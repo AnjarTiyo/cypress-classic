@@ -44,37 +44,37 @@ Before running the Cypress tests, make sure you have the following installed:
 
 2. Navigate to the project directory:
 
-```
-cd cypress-order-online
-```
+    ```
+    cd cypress-order-online
+    ```
 3. Install project dependencies:
 
-```
-npm install
-```
+    ```
+    npm install
+    ```
 
 ## Usage
 To run Cypress tests, you can use the provided scripts:
 
 - To open the Cypress Test Runner:
 
-```
-npm run cypress:open
-```
+    ```
+    npm run cypress:open
+    ```
 
 - To run Cypress tests in the terminal:
 
-```
-npm run cypress:run
-```
+    ```
+    npm run cypress:run
+    ```
 
 ## Dependencies
 This project relies on the following devDependencies:
 
-- @faker-js/faker
-- cypress
-- cypress-xpath
-- dotenv
+    - @faker-js/faker
+    - cypress
+    - cypress-xpath
+    - dotenv
 
 You can find more information about each package in their respective documentation.
 
@@ -86,5 +86,5 @@ This project is licensed under the ISC License.
 
 ## Author
 Anjar Tiyo
-[LinkedIn](https://www.linkedin.com/in/anjartiyo)
-[Email](atiyo.dev@gmail.com)
+| [LinkedIn](https://www.linkedin.com/in/anjartiyo) |
+[Email](atiyo.dev@gmail.com) |
