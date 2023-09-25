@@ -11,6 +11,10 @@ class LoginPage {
         return cy.get("button[type='submit']")
     }
 
+    get loader(){
+        return cy.get(".text-loading")
+    }
+
     visit() {
         return cy.visit('/login');
         // return cy.visit('/login', { 'failOnStatusCode': false });

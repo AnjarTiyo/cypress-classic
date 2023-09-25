@@ -1,6 +1,6 @@
 # Cypress Order Online
 
-![Cypress Logo](https://cdn.cypress.io/static/img/cypress-io-logo-social-share.png)
+![Cypress Logo](https://www.cypress.io/_astro/navbar-brand.0d71ff96.svg)
 
 Web UI Automation using Cypress on OExpress
 
